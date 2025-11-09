@@ -1,0 +1,7 @@
+ViewName: DashboardUtama
+Type: Dashboard
+ContainedViews:
+- DataMaster
+- Users
+- LogAktivitas
+DisplayName: 🏥 Dashboard Utama - APP_ACCESS_RS

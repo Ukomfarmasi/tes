@@ -1,0 +1,4 @@
+Authentication: AppSheet
+AllowedUsers:
+- admin@gmail.com
+- admin2@gmail.com

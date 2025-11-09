@@ -1,0 +1,3 @@
+TableName: LOG_AKTIVITAS
+Source: TEMPLATE_APP_ACCESS_RS_AUTOMATIC.xlsx
+KeyColumn: Tanggal & Jam

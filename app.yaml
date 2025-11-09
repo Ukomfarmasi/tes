@@ -1,0 +1,23 @@
+AppName: APP_ACCESS_RS_AUTOMATIC
+DefaultView: DashboardUtama
+Tables:
+-   Name: DATA_MASTER
+    File: tables/DATA_MASTER.yaml
+-   Name: Users
+    File: tables/Users.yaml
+-   Name: LOG_AKTIVITAS
+    File: tables/LOG_AKTIVITAS.yaml
+Views:
+-   Name: DashboardUtama
+    File: views/DashboardUtama.yaml
+-   Name: DataMaster
+    File: views/DataMaster.yaml
+-   Name: Users
+    File: views/Users.yaml
+-   Name: LogAktivitas
+    File: views/LogAktivitas.yaml
+Bots:
+-   Name: LogAktivitasOtomatis
+    File: bots/LogAktivitasOtomatis.yaml
+Security:
+    File: security/AppSecurity.yaml

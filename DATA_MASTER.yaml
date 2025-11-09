@@ -1,0 +1,3 @@
+TableName: DATA_MASTER
+Source: TEMPLATE_APP_ACCESS_RS_AUTOMATIC.xlsx
+KeyColumn: 'No'
